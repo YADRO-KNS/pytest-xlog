@@ -1,3 +1,8 @@
+## 0.1.5 (2020-05-31)
+### Removed
+ - Author email
+ - fixed typos
+
 ## 0.1.4 (2020-05-31)
 ### Added
  - Support PyPI
