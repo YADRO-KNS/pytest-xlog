@@ -1,3 +1,8 @@
+## 0.1.4 (2020-05-31)
+### Added
+ - Support PyPI
+
+
 ## 0.1.3 (2020-05-13)
 ### Added
  - Support case ids imported from test parameters

@@ -6,7 +6,7 @@ Pytest plugin to create YAML formatted reports where the root keys are decorator
 ## Install
 
 ```
-pip install git+https://github.com/YADRO-KNS/pytest-xlog
+pip install pytest-xlo
 ```
 
 ## Usage

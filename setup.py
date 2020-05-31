@@ -4,13 +4,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="pytest-xlog",
-    version='0.1.0',
+    version='0.1.5',
     license="MIT",
     description="Extended loggind for test and decorators",
     entry_points={"pytest11": ["pytest_xlog = pytest_xlog.plugin"]},
     author="Sergey Kozlov",
     author_email="s.kozlov@yardo.com",
-    url="https://b.yadro.com/users/s.kozlov/repos/pytest-xlog/",
+    url="https://github.com/YADRO-KNS/pytest-xlog",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     platforms="any",
