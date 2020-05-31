@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pytest-xlog",
-    version='0.1.5',
+    version='0.1.4',
     license="MIT",
     description="Extended loggind for test and decorators",
     entry_points={"pytest11": ["pytest_xlog = pytest_xlog.plugin"]},
